@@ -6,5 +6,8 @@ We are helping Robin use web scraping to collect information about Mars. In the 
 
 ## Visualizations
 
+![Temperature Mars](Data/Temperature_Mars.png)
 
+![Pressure Mars](Data/Pressure_Mars.png)
 
+![Daily Min Temp Mars](Data/Daily_Min_Temp_Mars.png)
